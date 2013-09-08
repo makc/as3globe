@@ -10,4 +10,4 @@ Key features:
 
 Licensed to you under LGPL http://www.gnu.org/licenses/lgpl-3.0.txt thus feel free to use this in your closed source app, but I would like to see the source if you make improved version :)
 
-See http://ideaskill.com/as3globe for more information.
+See http://makc.github.io/as3globe/ for live demo.
